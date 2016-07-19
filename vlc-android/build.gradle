@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "org.videolan.vlc"
+        applicationId "com.xtech.videoplayer"
 
         resValue "string", "build_time", buildTime()
         resValue "string", "build_host", hostName()
